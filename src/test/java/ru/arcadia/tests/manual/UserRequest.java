@@ -1,10 +1,12 @@
 package ru.arcadia.tests.manual;
 
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import static io.qameta.allure.Allure.step;
 
+@Tag("arcadia_tests")
 public class UserRequest {
     @Test
     @DisplayName("Открытие и заполение формы Связаться")
