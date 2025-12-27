@@ -8,7 +8,7 @@ import static io.qameta.allure.Allure.step;
 public class AuthGoogleTest {
     @Test
     @DisplayName("Авторизация через Google")
-    void authGoole() {
+    void authGoogle() {
         step("Открываем главную страницу");
         step("Авторизуемся как пользователь Anna Shelyakina", () -> {
             step("Вводим логин annatest123@gmail.com");
