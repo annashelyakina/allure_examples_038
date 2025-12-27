@@ -1,4 +1,4 @@
-package ru.arcadia;
+package ru.arcadia.tests.auto;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.logevents.SelenideLogger;

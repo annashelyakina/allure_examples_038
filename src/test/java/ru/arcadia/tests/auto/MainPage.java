@@ -1,4 +1,4 @@
-package ru.arcadia;
+package ru.arcadia.tests.auto;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
